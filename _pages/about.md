@@ -3,7 +3,7 @@ layout: about
 title: About Me
 author: Jang minju
 image: assets/images/about/author.jpg
-# signature: assets/images/about/signature.png
+signature: assets/images/about/signature.png
 ---
 
 ㅇㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㅇ
