@@ -117,10 +117,10 @@ skills:
 
 education-title: Education
 education:
-- {name: Marters in UX Design, date: '2006', organization: 'Masassusets Institute of Technology'}
-- {name: Honours in Fine Arts, date: '2004', organization: 'Harvard University'}
-- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
-- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
+- {name: (디지털컨버전스)공공데이터를 활용한 웹 애플리케이션 개발자 양성과정(2), date: '2021', organization: 'KH정보교육원'}
+- {name: 웹퍼블리셔2, date: '2015', organization: '그린컴퓨터아트학원'}
+#- {name: Higher Secondary Certificat, date: '2000', organization: 'Cardiff School'}
+#- {name: Secondary School Certificate, date: '1998', organization: 'Cardiff School'}
 
 
 #-------------------------------
