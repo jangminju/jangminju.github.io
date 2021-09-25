@@ -160,7 +160,7 @@ portfolio-home-items:
   - image : "assets/images/portfolio/pupu2.png"
     url: "https://drive.google.com/file/d/12x8mHvkt2NbtpMJ-ej6Nen5lCGU2xCoE/view?usp=sharing"
     
-  - image : "assets/images/portfolio/list.png"
+  - image : "assets/images/portfolio/todolist.png"
     url: "https://github.com/jangminju/Todolist"
     
   #- image : "assets/images/portfolio/item-4.png"
@@ -197,7 +197,7 @@ portfolio-items:
     portfolio-type:
       - type: "ppt"
       
-  - image : "assets/images/portfolio/list.png"
+  - image : "assets/images/portfolio/todolist.png"
     url: "https://github.com/jangminju/Todolist"
     portfolio-type:
       - type: "Project"
