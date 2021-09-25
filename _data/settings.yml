@@ -96,11 +96,10 @@ team:
 
 skills-title: Skills
 skills:
-- {name: Spring boot, color: '#fdb157', value: }
-- {name: Logo Design, color: '#9473e6', value: '60%'}
-- {name: After Effects, color: '#bdecf6', value: '80%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
-- {name: Web App, color: '#ffbcaa', value: '70%'}
+- {name: JAVA, color: '#fdb157', value: '60%'}
+- {name: SQL, color: '#9473e6', value: '50%'}
+- {name: Web Design, color: '#bdecf6', value: '40%'}
+- {name: Word Processing, color: '#ffbcaa', value: '80%'}
 
 
 #-------------------------------
