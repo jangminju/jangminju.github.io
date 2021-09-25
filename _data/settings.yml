@@ -79,23 +79,23 @@ work-process:
 # My Team Section
 team:
   - title : "Jack Schenziwe"
-    image : "assets/images/team/m1.png"
+    image : "assets/images/team/member-1.png"
     designation : "Project Manager"
     
   - title : "Julias Carlie"
-    image : "assets/images/team/m2.png"
+    image : "assets/images/team/member-2.png"
     designation : "Web Developer"
     
   - title : "John Doe"
-    image : "assets/images/team/m3.jpeg"
+    image : "assets/images/team/member-3.jpeg"
     designation : "Designer"
 
     - title : "John Doe"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/member-3.jpeg"
     designation : "Designer"
 
     - title : "John Doe"
-    image : "assets/images/team/member-3.png"
+    image : "assets/images/team/member-3.jpeg"
     designation : "Designer"
 
 
