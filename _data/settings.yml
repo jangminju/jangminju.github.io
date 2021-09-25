@@ -173,67 +173,67 @@ portfolio-home-items:
 # Portfolio Page
 portfolio-label:
 - {
-    title : "Project",
-    type : "design"
+    title : "PROJECT",
+    type : "Project"
   }
 - {
-    title : "BRANDING",
-    type : "branding"
+    title : "PPT",
+    type : "ppt"
   }
-- {
-    title : "ILLUSTRATION",
-    type : "illustration"
-  }
+#- {
+#    title : "ILLUSTRATION",
+#    type : "illustration"
+#  }
 
 portfolio-items:
   - image : "assets/images/portfolio/bubu.png"
     url: "https://github.com/seowonme/public-parking3"
     portfolio-type:
      - type: "design"
-     - type: "illustration"
+  #   - type: "illustration"
       
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/list.png"
+    url: "https://github.com/jangminju/Todolist"
     portfolio-type:
-      - type: "branding"
+      - type: "design"
       
   - image : "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "ppt"
       
-  - image : "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-      
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
-    portfolio-type:
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "design"
-      - type: "illustration"
-      - type: "branding"
-      
-  - image : "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+  #- image : "assets/images/portfolio/item-6.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "design"
+  #    - type: "branding"
+  #    
+  #- image : "assets/images/portfolio/item-8.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "illustration"
+  #    
+  #- image : "assets/images/portfolio/item-5.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "design"
+  #    
+  #- image : "assets/images/portfolio/item-1.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "branding"
+  #    
+  #- image : "assets/images/portfolio/item-3.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "design"
+  #    - type: "illustration"
+  #    - type: "branding"
+  #    
+  #- image : "assets/images/portfolio/item-7.png"
+  #  url: "#"
+  #  portfolio-type:
+  #    - type: "illustration"
 
 
 #-------------------------------
