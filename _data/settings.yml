@@ -63,17 +63,17 @@ blurb-btn-name: know more
 
 # Work Process Section
 work-process:
-  - title : "Research and Plan"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Design and Develop"
+  - title : "Frontend"
     icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "주조색 선택 - 디자인 구성 - 디자인 초안 - 코딩"
     
+  - title : "Backend"
+    icon : "assets/images/icons/plan.png"
+    content : "요구사항 분석 - SQL작성 - 코딩"
+  
   - title : "Deliver"
     icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Frontend와 Backend를 합친 후 오류잡기"
 
 
 # My Team Section
