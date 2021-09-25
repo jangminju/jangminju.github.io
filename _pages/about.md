@@ -6,14 +6,18 @@ image: assets/images/about/author.jpg
 signature: assets/images/about/signature.png
 ---
 
-ㅇㄹㅇㄴㄹㅇㄴㄹㅇㄴㄹㅇ
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+안녕하세요. 초보 개발자 장민주입니다.
+'내가 좋아하는 일을 업으로 삼자'는 생각으로 코딩의 길로 들어섰습니다.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+학창시절 쇼핑몰 사장이 되겠다는 막연한 생각으로 웹디자인을 배웠고, 코딩을 접해볼 수 있는 계기가 되었습니다. 코딩을 하며 무에서 유를 창조하는 일에 재미를 느꼈고, 배우고 싶었습니다.
+도전하는 것에 대한 두려움이 없어 경리와 비서 같은 일반 사무직 업무를 경험해보며 사회생활을 배웠고, 미래에 대한 고민, 걱정 그리고 나에게 맞는 업무가 무엇일지에 대한 생각을 끝없이 하였습니다.
+그리고 웹디자이너 재직시 경험했던 코딩을 떠올리게 되었으며, 주변 지인의 조언과 서치를 통해 자바 개발자가 되기 위해 KH정보교육원에서 '(디지털컨버전스)공공데이터를 활용한 웹 애플리케이션 개발자 양성과정(2)'을 수료하였습니다.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+개발자가 되는 과정은 쉽지 않았습니다.
+JAVA가 뭔지, Spring이 뭔지.. 매일 포기 하고 싶었지만, 과거 웹디자이너 시절 개발했을 때의 그 희열과 코딩을 칠 때의 재미, 그리고 그 당시의 열정을 생각하고 떠올리며 공부했습니다.
+
+사람들과 소통하고 협업하는 것이 중요한 개발자의 업무는 저에게도 중요한 부분입니다.
+사람을 좋아하고, 낯가림이 없어 먼저 다가갈 줄 알며, 사회생활 경험을 통해 급하게 다가가는 것이 상대방에겐 부담이 될 수 있다는 점을 인지하고 있어 상대방의 페이스에 맞춰 소통하려고 합니다.
+
+개발자로써 아직 많이 부족하지만 포기하지 않는다면 남들에게도 인정받을 수 있는 멋진 개발자가 될 수 있을거라고 확신합니다.
+다양한 개발 경험을 통해 계속해서 발전하는 개발자가 되겠습니다. 
