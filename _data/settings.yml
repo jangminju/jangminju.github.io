@@ -154,20 +154,20 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image : "assets/images/portfolio/item-1.png"
-    url: "#"
+  - image : "assets/images/portfolio/bubu.png"
+    url: "https://github.com/seowonme/public-parking3"
     
-  - image : "assets/images/portfolio/item-2.png"
-    url: "#"
+  - image : "assets/images/portfolio/pupu2.png"
+    url: "https://drive.google.com/file/d/12x8mHvkt2NbtpMJ-ej6Nen5lCGU2xCoE/view?usp=sharing"
     
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
+  - image : "assets/images/portfolio/list.png"
+    url: "https://github.com/jangminju/Todolist"
     
-  - image : "assets/images/portfolio/item-4.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-4.png"
+  #  url: "#"
     
-  - image : "assets/images/portfolio/item-5.png"
-    url: "#"
+  #- image : "assets/images/portfolio/item-5.png"
+  #  url: "#"
 
 
 # Portfolio Page
