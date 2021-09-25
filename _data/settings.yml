@@ -191,16 +191,16 @@ portfolio-items:
     portfolio-type:
      - type: "Project"
   #   - type: "illustration"
+
+  - image : "assets/images/portfolio/pupu2.png"
+    url: "https://docs.google.com/presentation/d/1tEdGhwtHBAYgKdAaxhMUFlPooBlnA0sJ/edit?usp=sharing&ouid=116059998039615571768&rtpof=true&sd=true"
+    portfolio-type:
+      - type: "ppt"
       
   - image : "assets/images/portfolio/list.png"
     url: "https://github.com/jangminju/Todolist"
     portfolio-type:
       - type: "Project"
-      
-  - image : "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "ppt"
       
   #- image : "assets/images/portfolio/item-6.png"
   #  url: "#"
