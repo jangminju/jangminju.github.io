@@ -90,6 +90,14 @@ team:
     image : "assets/images/team/member-3.png"
     designation : "Designer"
 
+    - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
+
+    - title : "John Doe"
+    image : "assets/images/team/member-3.png"
+    designation : "Designer"
+
 
 #-------------------------------
 # Skills Section
