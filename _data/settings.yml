@@ -86,7 +86,7 @@ team:
     image : "assets/images/team/member-2.png"
     designation : "Web Developer"
     
-  - title : "최서원"
+  - title : "jj"
     image : "assets/images/team/member-3.jpeg"
     designation : "Backend Developer"
 
