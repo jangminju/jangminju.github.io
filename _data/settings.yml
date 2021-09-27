@@ -78,16 +78,16 @@ work-process:
 
 # My Team Section
 team:
-  - title : "Jack Schenziwe"
-    image : "assets/images/team/member-31.png"
-    designation : "Project Manager"
+  - title : "임민영"
+    image : "assets/images/team/member-1.png"
+    designation : "Backend Developer"
     
-  - title : "Julias Carlie"
-    image : "assets/images/team/member-32.png"
-    designation : "Web Developer"
+  - title : "장민주"
+    image : "assets/images/team/member-2.jpg"
+    designation : "Backend Developer"
     
-  - title : "jj"
-    image : "assets/images/team/member-3.jpeg"
+  - title : "최서원"
+    image : "assets/images/team/member-3.jpg"
     designation : "Backend Developer"
 
 
