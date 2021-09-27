@@ -263,34 +263,34 @@ testimonial-items:
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/logo_1.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/logo_2.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/logo_3.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/logo_4.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/logo_5.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-1.png"
+  - logo: "assets/images/clients-logo/logo_6.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-2.png"
+  - logo: "assets/images/clients-logo/logo_7.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-3.png"
+  - logo: "assets/images/clients-logo/logo_8.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-4.png"
+  - logo: "assets/images/clients-logo/logo_9.jpg"
     url: "#"
     
-  - logo: "assets/images/clients-logo/client-logo-5.png"
+  - logo: "assets/images/clients-logo/logo_11.jpg"
     url: "#"
 
 #-------------------------------
