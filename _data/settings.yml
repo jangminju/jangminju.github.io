@@ -90,14 +90,6 @@ team:
     image : "assets/images/team/member-3.jpeg"
     designation : "Backend Developer"
 
-    - title : "John Doe"
-    image : "assets/images/team/member-3.jpeg"
-    designation : "Designer"
-
-    - title : "John Doe"
-    image : "assets/images/team/member-3.jpeg"
-    designation : "Designer"
-
 
 #-------------------------------
 # Skills Section
